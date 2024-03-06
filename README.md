@@ -6,6 +6,7 @@ Welcome to my SQL learning journey! Here, I document my experiences as I tackle 
 
 - [Introduction](#introduction)
 - [Challenges](#challenges)
+- [30 days of SQL](#30 days of SQL)
 - [Solutions](#solutions)
 
 ## Introduction
@@ -15,6 +16,10 @@ In this repository, I share my progress and learning experiences as I delve into
 ## Challenges
 
 I encounter various challenges related to SQL and data handling. Each challenge presents an opportunity to learn and apply new concepts. The challenges cover diverse domains, allowing me to gain practical insights into real-world data scenarios.
+
+## 30 days of SQL
+
+I've decided to hone my SQL skills, starting from the basics and working my way up. Each day, I'll be tackling SQL problems from platforms like LeetCode to enhance my understanding and proficiency.
 
 ## Solutions
 
